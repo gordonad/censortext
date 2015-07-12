@@ -1,6 +1,8 @@
 assets
 censortext-0.1.1.tgz
 
+.idea/
+
 # Logs
 logs
 *.log
