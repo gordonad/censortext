@@ -2,7 +2,17 @@
   "author": "Gordon Dickens",
   "name": "censortext",
   "version": "0.1.1",
-  "private": true,
+  "description": "censors words out of text",
+  "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gordonad/censortext"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "private": false,
   "scripts": {
     "start": "node ./bin/www"
   },
